@@ -1,0 +1,27 @@
+{
+  "id": "67478e52-e5cf-4ada-a94c-595a09a5b7de",
+  "tourFile": "demo.tour",
+  "title": "demo",
+  "description": "A New Tour",
+  "createdAt": "2026-10-01 04:30:41",
+  "steps": [
+    {
+      "title": "Advisor:43",
+      "description": "Simple Navigation to [[Advisor.java:43]]\n\nTest Step 01",
+      "file": "Advisor.java",
+      "line": 43
+    },
+    {
+      "title": "AfterReturningAdvice:44",
+      "description": "Simple Navigation to [[AfterReturningAdvice.java:44]]\n\nTest Step 02",
+      "file": "AfterReturningAdvice.java",
+      "line": 44
+    },
+    {
+      "title": "Pointcut:51",
+      "description": "Simple Navigation to [[Pointcut.java:51]]\n\nTest Step 03",
+      "file": "Pointcut.java",
+      "line": 51
+    }
+  ]
+}
